@@ -7,3 +7,4 @@ python3 src/main.py
 # It's comments all the way down
 # <F3><<F3><F3><F3><F3><F3><F3><F15><F15><F3>3<F3><F3><F3><F3><F3><F3><F3><F3><F3><F3>
 # <F3><F3>
+# Ok no more comments.. maybe
