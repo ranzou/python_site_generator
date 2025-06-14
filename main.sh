@@ -1,10 +1,2 @@
 python3 src/main.py
-# Test
-# Test 2
-# Another comment
-# Yet another
-# And another
-# It's comments all the way down
-# <F3><<F3><F3><F3><F3><F3><F3><F15><F15><F3>3<F3><F3><F3><F3><F3><F3><F3><F3><F3><F3>
-# <F3><F3>
-# Ok no more comments.. maybe
+cd public && python3 -m http.server 8888
